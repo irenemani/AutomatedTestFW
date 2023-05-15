@@ -10,15 +10,15 @@ public class LoginTest extends BaseTest {
         loginActions.getTitle();
     }
 
-    @Test
-    public void validateCorrectLogin() {
-        loginActions.validateSuccessfulLogin();
-        homeActions.validateLogout();
+    @Test (priority=1)
+    public void validate_ValidLogin() {
+        loginActions.SuccessfulLogin();
+        homeActions.Logout();
     }
 
-    @Test
-    public void validateWrongLogin() {
-        loginActions.validateUnSuccessfulLogin();
+    @Test (priority=2)
+    public void validate_InvalidLogin() {
+        loginActions.UnSuccessfulLogin();
     }
 
 }

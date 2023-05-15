@@ -15,6 +15,14 @@
         <selenium.version>4.9.0</selenium.version>
         <testNg.version>7.7.1</testNg.version>
         <extentReport.version>5.0.9</extentReport.version>
+        <apache.commons.version>4.4</apache.commons.version>
+        <apache.xmlbeans.version> 5.1.1 </apache.xmlbeans.version>
+        <apache.poi.ooxml-lite.version> 5.2.3 </apache.poi.ooxml-lite.version>
+        <apache.logging.log4j.version> 2.20.0</apache.logging.log4j.version>
+        <apache.poi.ooxml.version> 5.2.3</apache.poi.ooxml.version>
+        <apache.poi.version>5.2.3 </apache.poi.version>
+
+
     </properties>
 
     <dependencies>
@@ -32,6 +40,37 @@
             <groupId>com.aventstack</groupId>
             <artifactId>extentreports</artifactId>
             <version>${extentReport.version}</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.apache.commons</groupId>
+            <artifactId>commons-collections4</artifactId>
+            <version>${apache.commons.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.xmlbeans</groupId>
+            <artifactId>xmlbeans</artifactId>
+            <version>${apache.xmlbeans.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.poi</groupId>
+            <artifactId>poi-ooxml-lite</artifactId>
+            <version>${apache.poi.ooxml-lite.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.logging.log4j</groupId>
+            <artifactId>log4j-to-slf4j</artifactId>
+            <version>${apache.logging.log4j.version} </version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.poi</groupId>
+            <artifactId>poi-ooxml</artifactId>
+            <version>${apache.poi.ooxml.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.poi</groupId>
+            <artifactId>poi</artifactId>
+            <version>${apache.poi.version}</version>
         </dependency>
 
     </dependencies>
