@@ -4,34 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="424b5a24-56e3-4c8e-b580-141d212e7ca6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ireneCorp/actions/base/BaseActions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ireneCorp/actions/pageActions/HomeActions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ireneCorp/actions/pageActions/LoginActions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ireneCorp/common/core/Shell.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ireneCorp/common/reports/ExtentManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ireneCorp/common/util/TestUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ireneCorp/pages/base/BasePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ireneCorp/pages/pageObjects/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ireneCorp/pages/pageObjects/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com.ireneCorp.config/config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com.ireneCorp.drivers/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/ireneCorp/base/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/ireneCorp/testCases/HomeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/ireneCorp/testCases/LoginTest.java" afterDir="false" />
+    <list default="true" id="424b5a24-56e3-4c8e-b580-141d212e7ca6" name="Changes" comment="adding .idea/workspace.xml to git ignore">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager" show_ignored="true" />
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -60,29 +41,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/IRENE/Desktop/IT/Java Training/AutomatedTestFW/src/test/java/com/ireneCorp/testCases",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/IRENE/Desktop/IT/Java Training/AutomatedTestFW/src/test/java/com/ireneCorp/testCases&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\IRENE\Desktop\IT\Java Training\AutomatedTestFW\src\test\java\com\ireneCorp\testCases" />
       <recent name="C:\Users\IRENE\Desktop\IT\Java Training\AutomatedTestFW\src\test" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\IRENE\Desktop\IT\Java Training\AutomatedTestFW\src\test\resources\reportsDir" />
       <recent name="C:\Users\IRENE\Desktop\IT\Java Training\AutomatedTestFW\src\test\resources\testXMLFiles" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="TestNG.C:/Users/IRENE/Desktop/IT/Java Training/AutomatedTestFW/src/test/resources/testXMLFiles/SmokeTest.xml">
+    <configuration name="C:/Users/IRENE/Desktop/IT/Java Training/AutomatedTestFW/src/test/resources/testXMLFiles/SmokeTest.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomatedTestFW" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/testXMLFiles/SmokeTest.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="C:/Users/IRENE/Desktop/IT/Java Training/AutomatedTestFW/src/test/resources/testXMLFiles/test1.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="AutomatedTestFW" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/testXMLFiles/test1.xml" />
@@ -93,9 +85,67 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="HomeTest.validateItemsList_Price" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomatedTestFW" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ireneCorp.testCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ireneCorp.testCases" />
+      <option name="MAIN_CLASS_NAME" value="com.ireneCorp.testCases.HomeTest" />
+      <option name="METHOD_NAME" value="validateItemsList_Price" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeTest.validate_ListItems" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomatedTestFW" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ireneCorp.testCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ireneCorp.testCases" />
+      <option name="MAIN_CLASS_NAME" value="com.ireneCorp.testCases.HomeTest" />
+      <option name="METHOD_NAME" value="validate_ListItems" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeTest.validate_ListItems_Price" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomatedTestFW" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ireneCorp.testCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ireneCorp.testCases" />
+      <option name="MAIN_CLASS_NAME" value="com.ireneCorp.testCases.HomeTest" />
+      <option name="METHOD_NAME" value="validate_ListItems_Price" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C:/Users/IRENE/Desktop/IT/Java Training/AutomatedTestFW/src/test/resources/testXMLFiles/SmokeTest.xml" />
         <item itemvalue="TestNG.C:/Users/IRENE/Desktop/IT/Java Training/AutomatedTestFW/src/test/resources/testXMLFiles/test1.xml" />
+        <item itemvalue="TestNG.HomeTest.validate_ListItems" />
+        <item itemvalue="TestNG.HomeTest.validate_ListItems_Price" />
+        <item itemvalue="TestNG.HomeTest.validateItemsList_Price" />
       </list>
     </recent_temporary>
   </component>
@@ -108,6 +158,35 @@
       <option name="presentableId" value="Default" />
       <updated>1683723891951</updated>
     </task>
+    <task id="LOCAL-00001" summary="Creating Framework for practice">
+      <created>1683826939139</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683826939139</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added test cases to HomeTest.">
+      <created>1684108974206</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1684108974207</updated>
+    </task>
+    <task id="LOCAL-00003" summary="adding .idea to git ignore">
+      <created>1684109134381</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1684109134381</updated>
+    </task>
+    <task id="LOCAL-00004" summary="adding .idea/workspace.xml to git ignore">
+      <created>1684109416096</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1684109416096</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -115,10 +194,37 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Creating Framework for practice" />
+    <MESSAGE value="Added test cases to HomeTest." />
+    <MESSAGE value="adding .idea to git ignore" />
+    <MESSAGE value="adding .idea/workspace.xml to git ignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding .idea/workspace.xml to git ignore" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="TestNG">
+        <watch expression="sheet" language="JAVA" />
+        <watch expression="sheet" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
